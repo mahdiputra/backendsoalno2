@@ -25,7 +25,7 @@ var tahun = thn - tahun_req
 
 var zod_signs = ["Capricorn" , "Aquarius", "Pisces", "Aries",
 "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio",
-"Sagitarius"];
+"Sagittarius"];
     
 var zodiacSign = "";
 switch(bulan_req)
